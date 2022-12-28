@@ -14,3 +14,9 @@ trus pake pandas  buat bikin kolom, lalu jadiin ke excel atw csv
 kalau mau baca tinggal print(df) #df adalah variabel dengan obyek pandas bwt read csv
 
 gampang yak...
+
+pertama install library yang dibutuhkan
+
+pip install pandas
+pip install tweepy
+pip install snscrape
